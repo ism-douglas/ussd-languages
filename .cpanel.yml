@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home6/sabatiaeyehosp/test_repo/
+    - /bin/cp index.php $DEPLOYPATH
