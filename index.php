@@ -27,7 +27,7 @@ if ($text == "") {
             $response = "END PHP Frameworks \n1. Laravel\n2. Symfony\n3. CodeIgniter\n4. Cake";
             break;
         case "4":
-            $response = "END JavaScript Frameworks \n1. NodeJS\n2. ReactJS\n3. TypeScript\n4. DenoJS\n5. AngularJS";
+            $response = "END JavaScript Frameworks \n1. NodeJS\n2. ReactJS\n3. TypeScript\n4. DenoJS";
             break;    
         default:
             $response = "END Invalid input";
