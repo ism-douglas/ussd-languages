@@ -21,7 +21,7 @@ if ($text == "") {
             $response = "END Java Frameworks \n1. SpringBoot\n2. Apache Struts";
             break;
         case "2":
-            $response = "END Python Frameworks \n1. Flask\n2. Django \n3. PyTorch";
+            $response = "END Python Frameworks \n1. Flask\n2. Django \n3. PyTorch\n4. Pandas";
             break;
         case "3":
             $response = "END PHP Frameworks \n1. Laravel\n2. Symfony\n3. CodeIgniter";
